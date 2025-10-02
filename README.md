@@ -1,7 +1,7 @@
 ## Задача "Бизнес №4. Сервис для автоматизации приема и выдачи инструментов авиаинженерам на базе машинного обучения и компьютерного зрения"
 
 ### Полезные ссылки к проекту
-> [Сопроводительная документация к проекту](https://docs.google.com/document/d/1_FEDAf_apgzIffZSavqnj8Fy89nYhQKlHO13FpYFNNQ/edit?tab=t.0)
+> [Сопроводительная документация к проекту](https://docs.google.com/document/d/1_FEDAf_apgzIffZSavqnj8Fy89nYhQKlHO13FpYFNNQ/edit?usp=sharing)
 > 
 > [Оригинальный репозиторий клиентской части](https://github.com/X1STY/lct-alft-front)
 >
