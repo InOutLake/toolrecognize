@@ -5,11 +5,11 @@
 > docker compose --file docker-compose.local.yml --env-file local.env  up --build
 > ```
 
-> Для запуска локальной сборки:
+> Для запуска dev сборки:
 > ```bash
 > docker compose --file docker-compose.dev.yml --env-file dev.env  up --build
 > ```
-> Необходимые A-записи у DNS провайдера для работы системы:
+> Необходимые A-записи у DNS провайдера для работы dev сборки сервиса:
 > 
 > ```
 > api.domain.ru #Основной REST API
